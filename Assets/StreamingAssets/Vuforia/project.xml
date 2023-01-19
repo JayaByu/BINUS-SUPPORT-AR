@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="striving_for_excellence" size="100.000000 64.240906" />
+    <ImageTarget name="respect" size="100.000000 64.312737" />
+    <ImageTarget name="perseverance" size="100.000000 64.491844" />
+    <ImageTarget name="integrity" size="100.000000 64.321609" />
+    <ImageTarget name="innovation" size="100.000000 64.438843" />
+    <ImageTarget name="fostering" size="100.000000 64.366371" />
+    <ImageTarget name="empowering" size="100.000000 65.069359" />
+    <ImageTarget name="teamwork" size="100.000000 64.491844" />
+  </Tracking>
+</QCARConfig>
